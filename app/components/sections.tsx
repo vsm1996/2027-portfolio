@@ -62,7 +62,7 @@ export function Hero({ stage, onStage }: { stage: string; onStage: (s: string) =
             Frontend engineer building <em>systems</em> from first principles.
           </p>
           <div className="hero__meta">
-            <span>Brooklyn ↔ Remote</span>
+            <span>Oakland ↔ Remote</span>
             <span>Available · Q3 2026</span>
             <span>Soka Labs — founder</span>
           </div>
