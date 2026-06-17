@@ -6,7 +6,7 @@ export const PORTFOLIO = {
   email: "vanessa.s.martin96@gmail.com",
   github: "vsm1996",
   substack: "https://rengenoikigai.substack.com",
-  location: "Brooklyn ↔ Remote",
+  location: "Oakland ↔ Remote",
   status: "Available · Q3 2026",
 
   about: [
